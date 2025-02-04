@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 - 👀 I’m passionate about **coding** and love solving complex problems.  
-- 🌱 Currently working at **Windsor Machines Limited** as a software developer.  
+- 🌱 Currently working as a software developer.  
 - 💻 I primarily work with **ASP.NET, VB.NET, C#, SQL Server, Angular, PHP, MySQL**.  
 - 💞️ Looking to collaborate on **open-source projects, web applications, and automation scripts**.  
 - 📫 How to reach me:  

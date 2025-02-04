@@ -8,7 +8,7 @@
 - 📫 How to reach me:  
   - 📧 Email: neeraj000369@gmail.com  
   - 📞 Mobile: +91 8459280715  
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/neeraj-shukla) (Add your profile link)  
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/neeraj-shukla) ((https://www.instagram.com/njshukla/) 
 
 ## 🛠️ Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript, Angular, Bootstrap, NG-Zorro  

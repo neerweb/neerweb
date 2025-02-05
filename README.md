@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Niraj Shukla (@neerweb)  
+# 👋 Hi, I'm Niraj Shukla (@njshukla)  
 
 ## 🚀 About Me  
 - 👀 I’m passionate about **coding** and love solving complex problems.  
@@ -8,7 +8,7 @@
 - 📫 How to reach me:  
   - 📧 Email: neeraj000369@gmail.com  
   - 📞 Mobile: +91 8459280715  
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/neeraj-shukla) ((https://www.instagram.com/njshukla/) 
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/neeraj-shukla) ((https://www.instagram.com/njshukla/) (https://www.youtube.com@neerweb/
 
 ## 🛠️ Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript, Angular, Bootstrap, NG-Zorro  
@@ -22,3 +22,4 @@
 
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerweb&show_icons=true&theme=radical)  
+@neerweb

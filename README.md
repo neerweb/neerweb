@@ -31,3 +31,6 @@
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerweb&show_icons=true&theme=radical)  
 @neerweb
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,50:2C98F0,100:6C63FF&height=100&section=footer" width="100%"/>
+</div>

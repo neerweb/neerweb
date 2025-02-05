@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,50:2C98F0,100:6C63FF&height=200&section=header&text=Edison%20|%20Enterprise%20Solutions%20Architect&fontSize=42&fontAlignY=40&fontColor=FFFFFF" width="100%"/>
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Development;AI+%7C+Blockchain+%7C+Healthcare+Tech;500%2B+Developers+Mentored" alt="Typing SVG" />
+</div>
+
 # 👋 Hi, I'm Niraj Shukla (@njshukla)  
 
 ## 🚀 About Me  

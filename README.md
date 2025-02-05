@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,50:2C98F0,100:6C63FF&height=200&section=header&text=Edison%20|%20Enterprise%20Solutions%20Architect&fontSize=42&fontAlignY=40&fontColor=FFFFFF" width="100%"/>
+</div>
+
 # 👋 Hi, I'm Niraj Shukla (@njshukla)  
 
 ## 🚀 About Me  

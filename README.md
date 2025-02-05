@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Development;AI+%7C+Web-App+%7C+Developer+njshukla;500%2B+Developers+Mentored" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Development;AI+%7C+Web-App+%7C+Developer+njshukla;5%2B+Developers+Mentored" alt="Typing SVG" />
 </div>
 
 # 👋 Hi, I'm Niraj Shukla (@njshukla)  
